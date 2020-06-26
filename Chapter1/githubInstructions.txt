@@ -1,0 +1,9 @@
+#To Clone Repository:
+#you have to git the Repository url from github and then use it like this in the terminal:
+git clone repo_URL
+#To add the files or folders to be ready to transfare to github use this command:
+git add .
+# and then:
+git commit -m "your comment here"
+#and then:
+git push
